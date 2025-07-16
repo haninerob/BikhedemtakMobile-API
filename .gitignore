@@ -1,0 +1,19 @@
+# Ignore PHPStorm settings
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment/config files (store sensitive info locally)
+.env
+
+# Ignore vendor directory if using Composer
+/vendor/
+
+# Ignore cache and logs
+/logs/
+/cache/
+
+# Ignore uploaded files (if applicable)
+uploads/
